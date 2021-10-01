@@ -1,4 +1,4 @@
 # AEMulti
-Script for Astro Empires. Adds a ton of features to it, I can't even begin to list them all here.
+Script for Astro Empires. Auto builds structures. Planned to auto build and gather fleet but never got around to it. Stopped development some time ago due to real life obligations.
 
 Rick
